@@ -1,0 +1,106 @@
+
+//seccion texto
+
+.text {
+    color: $color-raisinblack;
+}
+
+.text--date {
+    font-family: $playfair;
+    font-size: $medium;
+    font-weight: $light;
+    padding: 1.2rem 0rem 3.2rem 0rem;
+}
+
+.text--texto-relleno {
+   line-height: $text-height; 
+   font-family: $roboto; 
+   font-size: $medium;   
+   font-weight: $light;
+}
+
+.text--botones {
+    margin-top: 4rem;
+    margin-bottom: 2.5rem;
+}
+
+.text--span {
+    color: $color-ruddypink;
+}
+
+
+
+//Secccion Page
+
+.page {
+    height: 330px;
+    width: 100%;
+    border-top: 1px solid $color-lightgray;
+    padding: 5rem 0rem;
+}
+
+.page--image--blogger{
+    text-align: center;
+}
+
+.page--text{
+    padding: 1.5rem 0rem 0rem 0.5rem;
+    text-align: center;
+}
+
+.page--text--block {
+    text-align: left;
+}
+
+.page--img {
+    height: 140px;
+    width: 140px;
+    vertical-align: top;
+}
+
+.page--name--blogger {
+    font-family: $playfair;
+    font-weight: $bold;
+    font-size: $x-large;
+    font-style: italic;
+    margin: 0;
+    padding-bottom: 0.5rem;
+}
+
+.page--text--content {
+    line-height: $text-height;
+}
+
+.text--img--parrafo {
+   margin: 0;
+   color: $color-spanishpink;
+   font-weight: $regular;
+}
+
+
+//Secccion Pagination
+
+.pagination--container {
+    background-color: $color-platinum;
+    height: 115px;
+}
+
+//.pagination--content {
+    //text-align: center;
+    //padding: 2.5rem 7rem 2.5rem 7rem;
+//}
+
+.pagination--content {
+    text-align: center;
+    padding: 3% 37% 5% 37%;
+}
+
+
+.page-link {
+    color: $color-raisinblack;
+}
+
+.page--item--barbershop {
+    background-color: $color-eerieblack;
+    color: $color-platinum;
+}

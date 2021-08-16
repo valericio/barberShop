@@ -1,0 +1,40 @@
+@media (max-width: 990px) {
+    .page--text--content {
+        display: none;
+    }
+
+    .page--text--block {
+        text-align: center;
+        padding: 1rem 0rem 0rem 0rem;
+    }
+
+    .page--img {
+        height: 130px;
+        width: 130px;
+        vertical-align: top;
+    }
+
+    .page--text{
+        padding: 0rem 0rem 0rem 0rem;
+        text-align: center;
+    }
+
+    .page {
+        padding: 2rem 0rem;
+    }
+}
+
+
+@media (max-width: 576px) {
+     .header--text{
+        font-size: $x-large;
+        font-style: italic;
+        padding-top: 8rem;
+    }
+
+    .pagination--content {
+        text-align: center;
+        padding: 13% 3% 7% 3%;
+    }
+
+}

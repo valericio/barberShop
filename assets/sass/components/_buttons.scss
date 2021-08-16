@@ -1,0 +1,7 @@
+.text--button--medium {
+    @include button--medium($color-white, $color-nickel, $medium, $regular, $roboto);
+}
+
+.text--button--small {
+    @include button--small($color-white, $color-nickel, $small, $regular, $roboto);
+}

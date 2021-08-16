@@ -1,0 +1,20 @@
+@import 'vendors/bootstrap_v.4.4/bootstrap.scss';
+// Abstracts 
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+// Vendors
+@import 'vendors/fontawesome-all.css';
+
+// Base
+@import 'base/reset';
+
+// Layout
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sections';
+@import 'layout/mediaqueries';
+
+// Components
+@import 'components/buttons';
