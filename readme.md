@@ -13,7 +13,7 @@ Ninguno
 
 ## Para visualizar la pagina
 
-* [Viajes Chile en GitHub Pages](https://valericio.github.io/barberShop/)
+* [BarberShop en GitHub Pages](https://valericio.github.io/barberShop/)
 
 ## Autores ✒️
 
